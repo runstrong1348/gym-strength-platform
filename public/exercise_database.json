@@ -1,0 +1,48 @@
+{
+  "exercises": {
+    "leg swings": {
+      "name": "Leg Swings",
+      "type": "Warm-up",
+      "equipment": "None",
+      "difficulty": "Beginner",
+      "muscle_groups": ["Hip Flexors", "Hamstrings", "Glutes"],
+      "animation_path": "/animations/leg-swings.json",
+      "video_path": "/videos/leg-swings.mov",
+      "instructions": [
+        "Stand sideways next to a wall or support for balance",
+        "Keep your standing leg slightly bent",
+        "Swing your other leg forward and backward",
+        "Keep your core engaged and maintain good posture",
+        "Perform 10-15 swings per leg"
+      ],
+      "tips": [
+        "Start with smaller swings and gradually increase range of motion",
+        "Keep your upper body stable throughout the movement",
+        "Don't force the swings - stay within a comfortable range",
+        "Breathe naturally throughout the exercise"
+      ]
+    },
+    "push-ups": {
+      "name": "Push-ups",
+      "type": "Strength",
+      "equipment": "None",
+      "difficulty": "Intermediate",
+      "muscle_groups": ["Chest", "Shoulders", "Triceps", "Core"],
+      "animation_path": "/animations/pushups.json",
+      "video_path": "/videos/push-ups.mp4",
+      "instructions": [
+        "Start in a plank position with hands shoulder-width apart",
+        "Lower your body by bending your elbows",
+        "Keep your core tight and body in a straight line",
+        "Push back up to the starting position",
+        "Repeat for desired number of repetitions"
+      ],
+      "tips": [
+        "Keep your elbows at a 45-degree angle to your body",
+        "Look at a spot on the ground about a foot in front of you",
+        "Don't let your hips sag or pike up",
+        "Modify on knees if needed for proper form"
+      ]
+    }
+  }
+}
